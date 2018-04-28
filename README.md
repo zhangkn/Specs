@@ -16,4 +16,9 @@ Don't know what CocoaPods is? Check out [this overview](https://kunnan.github.io
 
 If you'd like to learn how these work, see the [CocoaPods Guide on Private Spec Repos](https://kunnan.github.io/2017/03/10/making_private_cocoapods/).
 # Specs
-/Users/devzkn/code/git/Specs.git
+
+>* source
+```
+source 'https://github.com/zhangkn/Specs.git'
+#/Users/devzkn/code/git/Specs.git
+```
